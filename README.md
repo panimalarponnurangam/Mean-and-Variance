@@ -1,7 +1,8 @@
 #  Mean and variance of a discrete  distribution
-
+```
 EX.NO.:01
-DATE:25/08/2023
+ATE:25/08/2023
+```
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
